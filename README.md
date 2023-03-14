@@ -12,6 +12,7 @@ My experience as a financial and data analyst has equipped me with a keen eye fo
 As a data science enthusiast, I'm always seeking out new ways to improve my skills and expand my knowledge. I'm committed to learning and growing in this field, and I'm excited to share my journey with the Github community.
 
 Whether you're interested in collaborating on a project, sharing ideas, or just exploring the world of data science, I'm always eager to connect with like-minded individuals. So feel free to reach out and say hello!
+email: info@avionanalytics.com
 </b>
 
 <!---
