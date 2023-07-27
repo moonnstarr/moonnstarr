@@ -3,7 +3,7 @@
 
 <b>
   
-Welcome to my Github profile! I'm a self-taught coder with a strong background in finance and data analysis. My passion lies in the field of data science, and I love exploring the latest tools and techniques for extracting insights from data.
+Welcome to my Github profile! I'm a enthusiastic RPA developer and a Data analyst with a strong background in finance and data analysis. My passion lies in the field of data science, and I love exploring the latest tools and techniques for extracting insights from data.
 
 My experience as a financial and data analyst has equipped me with a keen eye for detail and a deep understanding of statistical analysis. As a result, I have a unique perspective on the challenges and opportunities of working with data.
 
