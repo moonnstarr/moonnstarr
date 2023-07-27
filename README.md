@@ -1,7 +1,5 @@
-<h4>- 👋 Hi, I’m a self taught coder and RPA enthusiast.</h4>
-<h4>- 👀 I’m interested in learning new technologies.</h4>
-<h4>- 🌱 I’m currently learning data science with Python.</h4>
-<h4>- 💞️ I’m looking to collaborate on and data analytics projects in Python.</h4>
+<h4>- 👋 Hi, I’m a RPA enthusiast and Machine learning Enthusiast.</h4>
+<h4>- 💞️ I’m looking to collaborate on  Robotic Process Automation and data analytics projects in Python.</h4>
 
 <b>
   
